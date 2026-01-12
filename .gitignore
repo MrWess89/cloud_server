@@ -1,0 +1,29 @@
+# Logs
+logs/
+*.log
+
+# Private / sensitive files
+private/
+*.env
+*.key
+*.pem
+*.secret
+
+# OS & Editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Node / Python / General
+node_modules/
+__pycache__/
+*.pyc
+
+# Docker artifacts
+*.tar
+
+# Temporary files
+tmp/
+*.tmp
+
